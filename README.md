@@ -19,7 +19,11 @@ Sistema para Controle e Gerenciamento de Cliente, Móveis e Pedidos de Segmento 
   Gráfico de Barras Horizontais utilizado para representar o Cronograma do Projeto
   
   ![Diagrama de Gantt](https://github.com/JoaoPQuixaba/ControleEGerenciamentoJava/blob/main/DiagramaDeGantt/Gantt%20Java.png)
-     
+
+ # Arquivos Necessarios
+  Instalar na sua IDE os arquivos que foram disponibilizados na pasta "ARQUIVOS NECESSÁRIOS" do repositório!
+   
+    
  # Interfaces (GUI)
  PREVIEW das interfaces onde o proprietário escolhe a sua ação dentro do sistema!**
 
